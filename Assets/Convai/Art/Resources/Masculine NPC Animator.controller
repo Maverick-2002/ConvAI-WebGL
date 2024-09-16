@@ -160,18 +160,18 @@ AnimatorController:
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: Dance
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
     m_StateMachine: {fileID: -216816501856076258}
-    m_Mask: {fileID: 0}
+    m_Mask: {fileID: 31900000, guid: f250dc1cd587f2f438496791868cb83e, type: 2}
     m_Motions: []
     m_Behaviours: []
     m_BlendingMode: 0
